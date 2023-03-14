@@ -1,0 +1,14 @@
+Es una prueba para el primer uso de git en el ordenador, con el github en la plataforma
+
+Pasos realizados:
+
+git init //para inicializar
+git remote add origin http://.......  //añadiendo la vinculacion
+$ git remote -v  //para verificar
+$ git config -l  // visualizar configuracion global
+
+$ clear //para limpiar
+$ git --version //para saber la version instalada
+
+$ git config --global user.name "xxxxx"
+$ git config --global user.email "....@....com"    /// ambos son para agregar nombre y email en la configuracion global
